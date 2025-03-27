@@ -12,6 +12,9 @@ https://www.codewars.com/kata/5265326f5fda8eb1160004c8/train/java
 https://www.codewars.com/kata/55a2d7ebe362935a210000b2/train/java
 https://www.codewars.com/kata/5b077ebdaf15be5c7f000077/train/java
  */
+
+
+
 public class HW7_3 {
     /*
     // Given [34, -345, -1, 100] your solution will return -345
@@ -40,6 +43,10 @@ public class HW7_3 {
         }
         return result;
     }
+
+
+
+
 
     public static void main(String[] args) {
         System.out.println(countingSheep(3));
