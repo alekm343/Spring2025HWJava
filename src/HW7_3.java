@@ -38,7 +38,7 @@ public class HW7_3 {
     public static String countingSheep(int num) {
         String result = "";
         for (int i = 0; i < num; i++ ) {
-            result += i + 1 + " sheep...";
+            result +=  i + 1 + " sheep...";
 
         }
         return result;
